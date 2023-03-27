@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DRONEBIKER1302
 - 👀 I’m interested in creating discord bots and web apps
-- 🌱 I’m currently learning django, and complex discord.py
+- 🌱 I’m currently learning flask
 - 💞️ I’m looking to collaborate on discord bot creation.
 - 📫 How to reach me: On discord : DRONEBIKER1302#8102
 
